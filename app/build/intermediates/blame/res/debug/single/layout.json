@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_update_screen.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\src\\main\\res\\layout\\add_update_screen.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_row.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\src\\main\\res\\layout\\listview_row.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/build/intermediates/res/merged/debug/layout/add_update_screen.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/src/main/res/layout/add_update_screen.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_blog.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/C:\\Users\\Usuario1\\AndroidStudioProjects\\SQLite-Database-Example-master\\app\\src\\main\\res\\layout\\my_blog.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/build/intermediates/res/merged/debug/layout/my_blog.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/src/main/res/layout/my_blog.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/build/intermediates/res/merged/debug/layout/listview_row.xml",
+        "source": "/Users/lyndontavares/Downloads/AgendaSQLLite2/app/src/main/res/layout/listview_row.xml"
+    }
+]
